@@ -20,3 +20,5 @@ This demonstration is to leverage **[the browser EventSource API](https://develo
 ### Docker: docker run -p 3000:3000 jglchen/realtime-stock-next
 ### [GitHub](https://github.com/jglchen/realtime-stock-next)
 ### back To [Series Home](https://jglchen.github.io/)
+
+{% include giscus.html %}
