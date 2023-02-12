@@ -54,6 +54,15 @@ export default function Home() {
         <title>RealTime Stock Quote Demonstrations</title>
         <meta name="description" content="RealTime Stock Quote Demonstrations" />
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="description"
+          content="The demonstration to leverage the browser EventSource API to build a real-time React application"
+          />
+        <meta name="og:title" content="RealTime Stock Quote Demonstrations" />
+        <meta
+          property="og:description"
+          content="The demonstration to leverage the browser EventSource API to build a real-time React application"
+          />
       </Head>
       <main className={styles.main}>
         <table>
